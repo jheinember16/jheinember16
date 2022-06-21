@@ -47,6 +47,7 @@ El Back End fue realizado con Node JS, Express JS y para la base de datos utilic
 <br/>
 <br/>
 ![collage](https://github.com/jheinember16/jheinember16/blob/main/images/collage.png)
+[Repo](https://github.com/jheinember16/PI-Videojuegos)
 
 ## Finder  
 - [Finder](https://finder-app-omega.vercel.app/)
@@ -56,7 +57,9 @@ El Back End fue realizado con Node JS, Express JS y para la base de datos utilic
 Finder es una aplicación que te facilita encontrar personas que ofrecen un servicio y también ayuda a las personas que están buscando trabajo.
 Esta aplicación se realizó en un equipo donde implementamos la metodología Scrum
 
-[Repo](https://github.com/jheinember16/PI-Videojuegos)
+[Repo](https://github.com/AlejandroColina/proyectoFinal)
+
+
 _______________________________________________________________________________________________________________________________________________________________________________
 
 ⭐️ From [JheinemberJimenez](https://github.com/jheinember16)
