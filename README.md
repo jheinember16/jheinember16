@@ -24,7 +24,7 @@
 
 ## Hola! mi nombre es Jheinember Jimenez! 👋👋👋
 
-Actualmente estoy cursando septime semestre de Ingenieria De Sistemas, decidí profundizar en lo que realmente me apasiona, que es la programacion, y afortunadamente tuve la oportunidad de hacerlo. Hoy soy un desarrollador Full Stack.  
+Actualmente estoy cursando septimo semestre de Ingenieria De Sistemas, decidí profundizar en lo que realmente me apasiona, que es la programacion, y afortunadamente tuve la oportunidad de hacerlo con HENRY.
 Tengo experiencia con HTML, Css, Javascript, React JS, Redux, Node, Express JS, Sequelize, PostgreSql.
 Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
@@ -53,9 +53,8 @@ El Back End fue realizado con Node JS, Express JS y para la base de datos utilic
 
 ![finder](https://github.com/jheinember16/jheinember16/blob/main/images/finder.png)
 
-Finder is an application that makes it easy for you to find people who offer a service and also helps people who are looking for a job.
-This application was carried out in a team where we implemented the Scrum methodology
-
+Finder es una aplicación que te facilita encontrar personas que ofrecen un servicio y también ayuda a las personas que están buscando trabajo.
+Esta aplicación se realizó en un equipo donde implementamos la metodología Scrum
 
 [Repo](https://github.com/jheinember16/PI-Videojuegos)
 _______________________________________________________________________________________________________________________________________________________________________________
