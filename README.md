@@ -1,7 +1,7 @@
 # :man_technologist: Jheinember Stith Jimenez Nieto
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jheinember)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573505501622&text=Olá!)](https://api.whatsapp.com/send?phone=573505501622&text=Olá!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jheinember)](https://www.linkedin.com/in/jheinember/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573225501622&text=Hola!)](https://api.whatsapp.com/send?phone=573505501622&text=Hola !)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jheinemberstithjn@ufps.edu.co)](mailto:jheinemberstithjn@ufps.edu.co)
 
 
