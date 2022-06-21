@@ -4,9 +4,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573505501622&text=Olá!)](https://api.whatsapp.com/send?phone=573505501622&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jheinemberstithjn@ufps.edu.co)](mailto:jheinemberstithjn@ufps.edu.co)
 
-    Hello my name is Jheinember JimenezLuiz Carlos, Fullstack JavaScript Developer. 
+    Hello my name is Jheinember Jimenez, Fullstack JavaScript Developer. 
 
-## Conhecimentos / Knowledges
+## Conocimientos
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jheinember16/)](https://github.com/jheinember16/)
 
