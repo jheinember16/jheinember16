@@ -4,7 +4,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573505501622&text=Olá!)](https://api.whatsapp.com/send?phone=573505501622&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jheinemberstithjn@ufps.edu.co)](mailto:jheinemberstithjn@ufps.edu.co)
 
-    Hello my name is Jheinember Jimenez, Fullstack JavaScript Developer. 
 
 ## Conocimientos
 
@@ -25,11 +24,10 @@
 
 ## Hola! mi nombre es Jheinember Jimenez! 👋👋👋
 
-Después de trabajar por varios años en la industria retail, decidí emprender en lo que realmente me apasiona, que es la programacion, y afortunadamente tuve la oportunidad de hacerlo. Hoy soy un desarrollador Full Stack.  
+Actualmente estoy cursando septime semestre de Ingenieria De Sistemas, decidí profundizar en lo que realmente me apasiona, que es la programacion, y afortunadamente tuve la oportunidad de hacerlo. Hoy soy un desarrollador Full Stack.  
 Tengo experiencia con HTML, Css, Javascript, React JS, Redux, Node, Express JS, Sequelize, PostgreSql.
-Soy una persona creativa e investigadora, disfruto de involucrarme en situaciones que requieran de pensar y sobre todo, buscar soluciones.
-Mi experiencia laboral previa, me brindó una serie de aptitudes, entre las que puedo destacar, el enfoque hacia la obtención de resultados, el logro de objetivos, y principalmente el trabajo en equipo.
 Por aca podes ver algunos de los proyectos en los que estuve trabajando..
+
 <br/>
 <br/>
 
