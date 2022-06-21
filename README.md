@@ -48,8 +48,8 @@ El Back End fue realizado con Node JS, Express JS y para la base de datos utilic
 <br/>
 ![collage](https://github.com/jheinember16/jheinember16/blob/main/images/collage.png)
 
-[Repo]([https://github.com/jheinember16/PI-Videojuegos)
-[Repo](https://github.com/gaston081/PI-Countries)
+
+[Repo](https://github.com/jheinember16/PI-Videojuegos)
 _______________________________________________________________________________________________________________________________________________________________________________
 
 ⭐️ From [JheinemberJimenez](https://github.com/jheinember16)
