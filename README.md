@@ -37,14 +37,20 @@ Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
 ## VideoJuegos App 
 
-VideoJuegos App es un proyecto individual, en el cual se puede acceder a info y datos relativos a todos los paises del mundo, y como usuario se pueden agregar actividades a los distintos paises. La misma consume la API Rest Countries, de la cual se obtienen todos los datos, y luego se almacenan en la base de datos local, desde donde luego se trabajan los mismos. 
+Aplicación en la cual se puedan ver los distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa rawg y a partir de ella poder, entre otras cosas:
+
+Buscar videjuegos.
+Filtrarlos por genero y creador.
+Ordenarlos alfabeticamente y por su rating.
+Agregar nuevos videojuegos.
+
 El Front End fue desarrollado con Javascript, React JS y Redux, todos los estilos y la estetica del proyecto fue realizada con CSS puro sin uso de librerias.
 El Back End fue realizado con Node JS, Express JS y para la base de datos utilice Sequelize y PostgreSQL. 
 <br/>
 <br/>
 ![collage](https://github.com/jheinember16/jheinember16/blob/main/images/collage.png)
 
-[Repo](https://github.com/gaston081/PI-Countries)
+[Repo]([https://github.com/jheinember16/PI-Videojuegos))
 _______________________________________________________________________________________________________________________________________________________________________________
 
 ⭐️ From [JheinemberJimenez](https://github.com/jheinember16)
