@@ -46,6 +46,9 @@ Agendar citas: Permitirá a los clientes programar consultas de manera eficiente
 
 Gestión de citas: Destinado al personal de la clínica para facilitar la administración y asignación de citas a los veterinarios.
 
+Desarrolado con las tecnologias PHP , Ajax, MySQL y Bootstrap .
+
+
 ![SistemaGEstionDeInformacion](https://github.com/jheinember16/jheinember16/blob/main/images/sistema.png)
 
 - [Finder](https://finder-app-omega.vercel.app/)
@@ -79,7 +82,10 @@ El Back End fue realizado con Node JS, Express JS y para la base de datos utilic
 ![finder](https://github.com/jheinember16/jheinember16/blob/main/images/finder.png)
 
 Finder es una aplicación que te facilita encontrar personas que ofrecen un servicio y también ayuda a las personas que están buscando trabajo.
-Esta aplicación se realizó en un equipo donde implementamos la metodología Scrum
+Esta aplicación se realizó en un equipo donde implementamos la metodología Scrum.
+
+Integración de multiples sistema y librerías: pasarela de pagos (PayPal), emails transaccionales (notmailer), chat interno en tiempo real (Firebase, React), uso de tecnología React, Redux. Material UI para el front-end; NodeJS con Express para el back-end; PostgreSQL, Sequelize y Firebase para la base de datos.
+
 
 [Repo](https://github.com/AlejandroColina/proyectoFinal)
 
