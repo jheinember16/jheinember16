@@ -46,6 +46,8 @@ Agendar citas: Permitirá a los clientes programar consultas de manera eficiente
 
 Gestión de citas: Destinado al personal de la clínica para facilitar la administración y asignación de citas a los veterinarios.
 
+![SistemaGEstionDeInformacion](https://github.com/jheinember16/jheinember16/blob/main/images/sistema.png)
+
 - [Finder](https://finder-app-omega.vercel.app/)
 
 ![finder](https://github.com/jheinember16/jheinember16/blob/main/images/finder.png)
