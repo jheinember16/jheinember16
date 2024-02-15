@@ -32,7 +32,7 @@ Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
 # Proyectos
 
-## Sistema de Gestión de Información para la Clínica Veterinaria
+## Sistema de Gestión de Información para la Clínica Veterinaria 'PETS HOME'
 
 Sitio web interactivo: Servirá como la principal interfaz para los clientes.
 
