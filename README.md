@@ -48,6 +48,11 @@ Gestión de citas: Destinado al personal de la clínica para facilitar la admini
 
 Desarrolado con las tecnologias PHP , Ajax, MySQL y Bootstrap .
 
+![collage](https://github.com/jheinember16/jheinember16/blob/main/images/sistema.png)
+
+[Repo](https://github.com/jheinember16/SistemaGestionClinicaVeterinaria)
+
+
 
 ## VideoJuegos App 
 
