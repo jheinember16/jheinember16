@@ -33,6 +33,29 @@ Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
 # Proyectos
 
+## Sistema de Gestión de Información para la Clínica Veterinaria
+
+Sitio web interactivo: Servirá como la principal interfaz para los clientes.
+
+Sistema de login: Se diseñará un sistema de autenticación seguro para garantizar la privacidad y seguridad de la información de los usuarios. Esto permitirá el acceso a funcionalidades personalizadas según los roles asignados.
+
+Gestión de usuarios: Facilitará la administración de perfiles y roles.
+
+Sección de productos: Permite visualizar y comprar suministros.
+
+Agendar citas: Permitirá a los clientes programar consultas de manera eficiente.
+
+Gestión de citas: Destinado al personal de la clínica para facilitar la administración y asignación de citas a los veterinarios.
+
+- [Finder](https://finder-app-omega.vercel.app/)
+
+![finder](https://github.com/jheinember16/jheinember16/blob/main/images/finder.png)
+
+Finder es una aplicación que te facilita encontrar personas que ofrecen un servicio y también ayuda a las personas que están buscando trabajo.
+Esta aplicación se realizó en un equipo donde implementamos la metodología Scrum
+
+[Repo](https://github.com/AlejandroColina/proyectoFinal)
+
 ## VideoJuegos App 
 
 Aplicación en la cual se puedan ver los distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa rawg y a partir de ella poder, entre otras cosas:
