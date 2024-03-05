@@ -24,7 +24,7 @@
 
 ## Hola! mi nombre es Jheinember Jimenez! 👋👋👋
 
-Actualmente estoy cursando noveno semestre de Ingenieria De Sistemas, tengo experiencia con HTML, Css, Javascript, React JS, Redux, Node, Express JS, Sequelize, PostgreSql.
+Actualmente estoy cursando noveno semestre de Ingenieria De Sistemas, tengo experiencia con HTML, CSS, Javascript, PHP React JS, Redux, NodeJS, Express JS, Sequelize, PostgreSql.
 Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
 <br/>
