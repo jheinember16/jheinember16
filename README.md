@@ -26,8 +26,12 @@
 
 ## Hola! mi nombre es Jheinember Jimenez! 👋👋👋
 
-Actualmente estoy cursando decimo semestre de Ingenieria De Sistemas, tengo experiencia con Java Spring Boot, Spring Security, Javascript, PHP, React JS, NodeJS, Express JS, Sequelize, PostgreSql.
-Por aca podes ver algunos de los proyectos en los que estuve trabajando..
+Desarrollador Backend especializado en Java y Spring Boot con experiencia en QA Testing. Estudiante de décimo
+semestre de Ingeniería de Sistemas, actualmente cursando diplomado para optar al título de Ingeniero de sistemas.
+Posee un enfoque sólido en arquitecturas limpias, metodologías ágiles (Scrum) y desarrollo orientado a pruebas.
+Comprometido con la calidad del software, con experiencia en pruebas funcionales y conocimientos en automatización.
+Enfocado en el aprendizaje continuo y en la mejora constante de los procesos de desarrollo.
+
 
 <br/>
 <br/>
